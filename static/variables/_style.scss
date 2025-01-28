@@ -1,0 +1,10 @@
+.bg-img-dark {
+    background-image: linear-gradient(rgba(9,9,9,0.9), rgba(9,9,9,0.9), rgba(9,9,9,0.9)), url('/img/bg_hero_tiny.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.hero{
+    height: 50vh;
+}
